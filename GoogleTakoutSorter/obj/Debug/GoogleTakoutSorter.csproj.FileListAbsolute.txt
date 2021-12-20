@@ -1,0 +1,10 @@
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.csprojAssemblyReference.cache
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.Form1.resources
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.Properties.Resources.resources
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.csproj.GenerateResource.cache
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.csproj.CoreCompileInputs.cache
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\bin\Debug\GoogleTakoutSorter.exe.config
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\bin\Debug\GoogleTakoutSorter.exe
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\bin\Debug\GoogleTakoutSorter.pdb
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.exe
+C:\Users\SOL\source\repos\GoogleTakoutSorter\GoogleTakoutSorter\obj\Debug\GoogleTakoutSorter.pdb
